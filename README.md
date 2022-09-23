@@ -25,3 +25,10 @@
                 <a style="cursor:pointer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="CSS" height="64" width="64"></a>
                 <a style="cursor:pointer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="Cplusplus" height="64" width="64"></a>
 </div>
+
+
+
+OS: Windows 11 Pro
+CPU: AMD Ryzen 5800x
+RAM: 32GB 3600Mhz
+GPU: 3080
