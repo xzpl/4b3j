@@ -1,6 +1,8 @@
 # Welcome To My Github Page
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=4b3j&theme=blueberry_duo" alt="Github Stats" align="middle">
+<div align="middle">
+ <img src="https://github-readme-streak-stats.herokuapp.com?user=4b3j&theme=blueberry_duo" alt="Github Stats">
+</div>
 
 Currently Studying Digital Design Production and Development, Comptia A+ and Cybersecurity!
 
