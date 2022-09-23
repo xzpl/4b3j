@@ -19,7 +19,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Im Part Polish
 
-<div style="display: inline-block" align="middle">
+<div style="display: inline-block; background-color:'white';" align="middle">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="64" width="64">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML" height="64" width="64">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="CSS" height="64" width="64">
