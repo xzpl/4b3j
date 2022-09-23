@@ -1,6 +1,6 @@
 # Welcome To My Github Page
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=4b3j&theme=blueberry_duo)](https://git.io/streak-stats)
+<img src="https://github-readme-streak-stats.herokuapp.com?user=4b3j&theme=blueberry_duo" alt="Github Stats" align="center">
 
 Currently Studying Digital Design Production and Development, Comptia A+ and Cybersecurity!
 
