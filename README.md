@@ -1,4 +1,4 @@
-<h1>Welcome To My Github Page</h1>
+<h1 align="middle">Welcome To My Github Page</h1>
 
 <div align="middle">
  <img src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=4b3j&logo=Github" alt="Visit">
