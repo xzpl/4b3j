@@ -26,9 +26,14 @@
                 <a style="cursor:pointer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="Cplusplus" height="64" width="64"></a>
 </div>
 
+<br>
 
-
-OS: Windows 11 Pro
-CPU: AMD Ryzen 5800x
-RAM: 32GB 3600Mhz
-GPU: 3080
+<div align="middle">
+ <p>OS: Windows 11 Pro</p>
+ <br>
+ <p>CPU: AMD Ryzen 5800x</p>
+ <br>
+ <p>RAM: 32GB 3600Mhz</p>
+ <br>
+ <p>GPU: 3080</p>
+</div>
