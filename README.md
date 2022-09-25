@@ -17,7 +17,7 @@
  <br>
 </div>
 
-- 🔭 I’m currently working on doing my Comptia A+ Core 1 and Core 2 exams
+- 🔭 I’m currently working on reverse shell
 - 🌱 I’m currently learning C++
 - 🤔 I’m looking for help with Comptia A+
 - 📫 How to reach me: 4b3ja@proton.me
