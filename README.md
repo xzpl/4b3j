@@ -8,7 +8,7 @@
  <br>
  <div>
     <img src="https://github-readme-streak-stats.herokuapp.com?user=4b3j&border_radius=6" alt="Github Stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=4b3j" alt="Github Rank">
+    <img srchttps://github-readme-stats.vercel.app/api?username=4b3j&show_icons=true" alt="Github Rank">
     <br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4b3j&layout=compact" alt="Github langauges">
  </div>
