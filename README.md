@@ -40,5 +40,5 @@
  <br>
  <p>RAM: 32GB 3600Mhz</p>
  <br>
- <p>GPU: </p>
+ <p>GPU:</p>
 </div>
